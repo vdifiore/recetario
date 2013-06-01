@@ -50,4 +50,3 @@ Preparar solucion de alcohol 70 Vol
 ![Licencia](http://es.creativecommons.org/blog/wp-content/uploads/2013/04/by-nc-sa.eu_petit.png "Licencia")
 
 *esta receta es un aporte de Julian Girardin y se encuentra liberada bajo licencia Creative Commons Atribución-CompartirIgual*
-
