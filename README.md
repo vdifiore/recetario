@@ -3,7 +3,7 @@ Recetario
 
 Ya que siempre usamos las recetas de cocina en nuestras charlas que mejor que publicarlas en un lugar donde modificarlas y forkearlas sea algo fácil
 
-## Indice
+## Índice
 1. [Cervezas](https://github.com/alvarmaciel/recetario/tree/master/Cervezas)
 2. [Comida Criolla](https://github.com/alvarmaciel/recetario/tree/master/Criolla)
 3. [Tartas](https://github.com/alvarmaciel/recetario/tree/master/Tartas)
