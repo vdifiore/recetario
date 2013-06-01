@@ -39,6 +39,5 @@ Enjoy!
 
 Bueno, creo no resta mucho mas, decirles que el Locro es un plato en el que hay que poner mucha onda, mucha personalidad, para que salga bueno, pero no es un plato difícil, si podes poner esos ingredientes clave… No nombre la sal, queda en sus manos, se puede salar en cualquier momento. A mi me gusta salarlo al principio. Pero se puede salar incluso al servirlo.
 
-/esta receta es un aporte de Julian Girardin y se encuentra liberada bajo licencia Creative Commons Atribución-CompartirIgual/
-
-//esta receta es un aporte de Julian Girardin y se encuentra liberada bajo licencia Creative Commons Atribución-CompartirIgual //
+![Licencia](http://es.creativecommons.org/blog/wp-content/uploads/2013/04/by-nc-sa.eu_petit.p)
+*esta receta es un aporte de Julian Girardin y se encuentra liberada bajo licencia Creative Commons Atribución-CompartirIgual*
