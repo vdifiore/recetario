@@ -10,4 +10,4 @@ Ya que siempre usamos las recetas de cocina en nuestras charlas que mejor que pu
 4. [postres](https://github.com/vdifiore/recetario/tree/master/postres)
 
 ## Licencia
-![Licencia](http://es.creativecommons.org/blog/wp-content/uploads/2013/04/by-nc-sa.eu_petit.png "Licencia")
+![Licencia](http://www.creativecommons.org.ar/media/uploads/licencias/by-sa-125px.png "Licencia")
