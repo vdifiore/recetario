@@ -1,7 +1,7 @@
 Recetario
 =========
 
-Ya que siempre usamos las recetas de cocina en nuestras charlas que mejor que publicarlas en un lugar donde modificarlas y forkearlas sea algo fácil...
+Ya que siempre usamos de ejemplo las recetas de cocina en nuestras charlas sobre Software Libre, que mejor que publicarlas en un lugar donde modificarlas y forkearlas sea algo fácil...
 
 ## Índice
 1. [Cervezas](https://github.com/vdifiore/recetario/tree/master/Cervezas)
