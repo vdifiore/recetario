@@ -15,6 +15,7 @@ otra prueba
 4. [Postres](https://github.com/vdifiore/recetario/tree/master/postres)
 5. [Indian Style](https://github.com/vdifiore/recetario/tree/master/Indian%20style)
 6. [Tortas](https://github.com/vdifiore/recetario/tree/master/Tortas)
+6. [Panes]()
 
 ## Licencia
 
