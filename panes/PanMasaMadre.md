@@ -32,4 +32,4 @@
 
 # Video<a id="sec-3"></a>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/8DsZjNJFafc?list=PLLWjMR6oKO5CXE<sub>g4yu8AcrbI7SNKydoM</sub>" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/8DsZjNJFafc" frameborder="0" allowfullscreen></iframe>
