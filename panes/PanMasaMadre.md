@@ -33,3 +33,5 @@
 # Video<a id="sec-3"></a>
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/8DsZjNJFafc" frameborder="0" allowfullscreen></iframe>
+
+YT("http://www.youtube.com/watch?v=ArHQjQyIS70", print = TRUE)
