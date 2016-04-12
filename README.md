@@ -10,6 +10,7 @@ Ya que siempre usamos de ejemplo las recetas de cocina en nuestras charlas sobre
 4. [Postres](https://github.com/vdifiore/recetario/tree/master/postres)
 5. [Indian Style](https://github.com/vdifiore/recetario/tree/master/Indian%20style)
 6. [Tortas](https://github.com/vdifiore/recetario/tree/master/Tortas)
+7. [De Mar](https://github.com/vdifiore/recetario/tree/master/DeMar)
 
 ## Licencia
 
