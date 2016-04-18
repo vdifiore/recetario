@@ -3,6 +3,10 @@ Recetario
 
 Ya que siempre usamos de ejemplo las recetas de cocina en nuestras charlas sobre Software Libre, que mejor que publicarlas en un lugar donde modificarlas y forkearlas sea algo fácil...
 
+cambio de prueba 5 de octubre
+
+otra prueba
+
 ## Índice
 
 1. [Cervezas](https://github.com/vdifiore/recetario/tree/master/Cervezas)
@@ -11,9 +15,11 @@ Ya que siempre usamos de ejemplo las recetas de cocina en nuestras charlas sobre
 4. [Postres](https://github.com/vdifiore/recetario/tree/master/postres)
 5. [Indian Style](https://github.com/vdifiore/recetario/tree/master/Indian%20style)
 6. [Tortas](https://github.com/vdifiore/recetario/tree/master/Tortas)
-7. [De Mar](https://github.com/vdifiore/recetario/blob/master/DeMar/calamaresRellenos.md)
-8. [panes](https://github.com/vdifiore/recetario/tree/master/panes)
-9. [Jugos](https://github.com/vdifiore/recetario/blob/master/jugos/jugos.md)
+<<<<<<< HEAD
+6. [Panes]()
+=======
+7. [De Mar](https://github.com/vdifiore/recetario/tree/master/DeMar)
+>>>>>>> 5dde46251c4eaa56b5fbafa913438f30e5dde179
 
 ## Licencia
 

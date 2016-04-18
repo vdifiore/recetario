@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-09-28 11:07-0300\n"
+"POT-Creation-Date: 2013-10-05 17:44-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,33 +27,62 @@ msgstr ""
 #. type: Plain text
 #: README.md:5
 msgid ""
-"Ya que siempre usamos las recetas de cocina en nuestras charlas que mejor "
-"que publicarlas en un lugar donde modificarlas y forkearlas sea algo "
-"fácil..."
+"Ya que siempre usamos de ejemplo las recetas de cocina en nuestras charlas "
+"sobre Software Libre, que mejor que publicarlas en un lugar donde "
+"modificarlas y forkearlas sea algo fácil..."
 msgstr ""
 
 #. type: Plain text
-#: README.md:13
+#: README.md:7
+msgid "cambio de prueba 5 de octubre"
+msgstr ""
+
+#. type: Plain text
+#: README.md:9
+msgid "## Índice"
+msgstr ""
+
+#. type: Bullet: '1. '
+#: README.md:16
+msgid "[Cervezas](https://github.com/vdifiore/recetario/tree/master/Cervezas)"
+msgstr ""
+
+#. type: Bullet: '2. '
+#: README.md:16
 msgid ""
-"## Índice "
-"1. [Cervezas](https://github.com/vdifiore/recetario/tree/master/Cervezas)  "
-"2. [Comida "
-"Criolla](https://github.com/vdifiore/recetario/tree/master/Criolla)  "
-"3. [Tartas](https://github.com/vdifiore/recetario/tree/master/Tartas)  "
-"4. [Postres](https://github.com/vdifiore/recetario/tree/master/postres)  "
-"5. [Indian "
-"Style](https://github.com/vdifiore/recetario/tree/master/Indian%20style)  "
-"6. [Tortas](https://github.com/vdifiore/recetario/tree/master/Tortas)"
+"[Comida Criolla](https://github.com/vdifiore/recetario/tree/master/Criolla)"
+msgstr ""
+
+#. type: Bullet: '3. '
+#: README.md:16
+msgid "[Tartas](https://github.com/vdifiore/recetario/tree/master/Tartas)"
+msgstr ""
+
+#. type: Bullet: '4. '
+#: README.md:16
+msgid "[Postres](https://github.com/vdifiore/recetario/tree/master/postres)"
+msgstr ""
+
+#. type: Bullet: '5. '
+#: README.md:16
+msgid ""
+"[Indian Style](https://github.com/vdifiore/recetario/tree/master/Indian"
+"%20style)"
+msgstr ""
+
+#. type: Bullet: '6. '
+#: README.md:16
+msgid "[Tortas](https://github.com/vdifiore/recetario/tree/master/Tortas)"
 msgstr ""
 
 #. type: Plain text
-#: README.md:15
+#: README.md:18
 msgid "## Licencia"
 msgstr ""
 
 #. type: Plain text
-#: README.md:17
+#: README.md:20
 msgid ""
-"![Licencia](http://www.creativecommons.org.ar/media/uploads/licencias/by-sa-125px.png "
-"\"Licencia\")"
+"![Licencia](http://www.creativecommons.org.ar/media/uploads/licencias/by-"
+"sa-125px.png \"Licencia\")"
 msgstr ""
