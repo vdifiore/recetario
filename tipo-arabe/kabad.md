@@ -12,4 +12,4 @@ Asar preferiblemente sobre brasas de carbón, colocando la parrilla alejada del 
 ##Paso 4:##
 Comer y disfrutar 
 
-(https://yummraj.files.wordpress.com/2012/10/2.jpg)
+![](https://yummraj.files.wordpress.com/2012/10/2.jpg)
