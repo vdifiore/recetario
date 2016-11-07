@@ -1,4 +1,4 @@
-#Guiso de lentejas (vegetariano)
+#Guiso de lentejas (vegano)
 Rinde para 6/7 personas
 
 ##Ingredientes
