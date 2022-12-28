@@ -59,7 +59,7 @@
 'copy_assets:output/assets/css/baguetteBox.min.css', (54784, 476)
 'copy_assets:output/assets/js/gallery.js', (55296, 456)
 'render_galleries:output/galleries/rss.xml', (55808, 3502)
-'sitemap:output/sitemap.xml', (95232, 4606)
+'sitemap:output/sitemap.xml', (161792, 4611)
 'copy_assets:output/assets/css/bootblog.css', (60928, 472)
 'render_taxonomies:output/2022/index.html', (101376, 5080)
 'render_sources:output/posts/calamares-rellenos/index.md', (65024, 283)
