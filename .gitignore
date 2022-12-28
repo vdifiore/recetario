@@ -1,1 +1,5 @@
 /panes/PanMasaMadre.org
+cache
+.doit.db
+__pycache__
+output

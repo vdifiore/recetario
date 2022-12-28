@@ -1,7 +1,7 @@
-#Guiso de lentejas (vegetariano)
+# Guiso de lentejas (vegetariano)
 Rinde para 6/7 personas
 
-##Ingredientes
+## Ingredientes
 
 *Lentejón chileno: 500gr
 *Cebolla de verdeo: 3u
@@ -14,7 +14,7 @@ Rinde para 6/7 personas
 *Caldo de verduras: un cubito
 *Sal, comino y pimienta: a gusto
 
-##Preparación
+## Preparación
 
 1. Dejar en remojo las lentejas desde la noche anterior.
 2. En una olla rehogar en un poquito de aceite o fritolim las cebollas de verdeo, el puerro y el morrón. En otra cacerola, preparar un caldo de vegetales de los de cubito (aproximadamente 1lt de caldo).
